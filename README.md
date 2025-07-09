@@ -9,3 +9,5 @@ A Java project to manage library operations, such as:
 
 ## How to Run
 Compile and run using:
+javac Library.java
+java Library
